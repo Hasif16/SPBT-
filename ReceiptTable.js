@@ -1,0 +1,1 @@
+// ReceiptTable.js placeholder

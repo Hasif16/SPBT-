@@ -1,0 +1,1 @@
+// DistributionTable.js placeholder
