@@ -1,0 +1,6 @@
+cd spbt-stock-app
+git init
+git remote add origin https://github.com/Hasif16/spbt-stock-app.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
